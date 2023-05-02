@@ -1,4 +1,5 @@
 "# Simple_ML" 
+GAME ANALYSIS IPYNB
 Questions the analysis meant to answer
 Question:
 Which of the variables in the video game dataset or a combination of them best predicts ‘global sales’ of video games and why? Provide quantitative justifications for your answers.
